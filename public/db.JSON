@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "imageUrl": "https://s2.best-wallpaper.net/wallpaper/2560x1440/1908/Spider-man-logo-art-picture_2560x1440.jpg",
+      "name": "admin",
+      "password": "123qwe",
+      "phone": "+79787190009",
+      "email": "fur1ous@ya.ru",
+      "age": "18"
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Human_Rights_International_Barnstar_Hires.png",
+      "name": "admin2",
+      "password": "123qweasd",
+      "phone": "+79787190008",
+      "email": "2fur1ous@ya.ru",
+      "age" :"20"
+    }
+    ]
+}
